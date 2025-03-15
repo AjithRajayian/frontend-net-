@@ -26,7 +26,7 @@ const About = () => {
               window.open(`https://www.glooft.com/contact/`);
             }}
           >
-            {translate('Contact ')}
+            {translate('Contact us')}
           </Button>
         </>
       }
